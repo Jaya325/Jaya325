@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jaya325
-- 👀 I’m interested in Robotics and AI
+- 👀 I’m interested in computer vision,Robotics and AI
 - 💞️ I’m looking to collaborate on communities 
 - 📫 How to reach me jayasimha325@gmail.com
 
