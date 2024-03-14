@@ -1,0 +1,5 @@
+#Python
+main()
+{
+  print("hello");
+}
