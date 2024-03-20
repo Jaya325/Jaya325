@@ -1,0 +1,5 @@
+# python
+main()
+{
+  int i;
+}
