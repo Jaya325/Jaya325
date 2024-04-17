@@ -1,5 +1,0 @@
-#Python
-main()
-{
-  print("hello");
-}
